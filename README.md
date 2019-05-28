@@ -9,7 +9,7 @@
 - [ ] Read [TopCoder Tutorial on DP](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 - Solve the following classical problems:
   - [ ] [Max 1D Range Sum](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=649&page=show_problem&problem=1696)
-  - [ ] [Max 2D Range Sum](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=650&page=show_problem&problem=3102)
+  - [x] [Max 2D Range Sum](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=650&page=show_problem&problem=3102)
   - [ ] [Longest Increasing Subsequence I](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=651&page=show_problem&problem=2890)
   - [ ] [Longest Increasing Subsequence II](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=651&page=show_problem&problem=2451)
   - [ ] [0-1 Knapsack I](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=652&page=show_problem&problem=1557)
