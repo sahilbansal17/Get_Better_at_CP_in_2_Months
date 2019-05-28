@@ -8,7 +8,7 @@
 - [ ] Read [DP Tutorial involving grids](https://www.hackerearth.com/practice/notes/dynamic-programming-problems-involving-grids/)
 - [ ] Read [TopCoder Tutorial on DP](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 - Solve the following classical problems:
-  - [ ] [Max 1D Range Sum](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=649&page=show_problem&problem=1696)
+  - [ ] [Max 3D Range Sum](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=649&page=show_problem&problem=1696)
   - [ ] [Max 2D Range Sum](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=650&page=show_problem&problem=3102)
   - [ ] [Longest Increasing Subsequence I](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=651&page=show_problem&problem=2890)
   - [ ] [Longest Increasing Subsequence II](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=651&page=show_problem&problem=2451)
@@ -29,7 +29,8 @@
   - [ ] [How do you add?](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=655&page=show_problem&problem=1884)
   - [ ] [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem)
   - [ ] [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem)
-  
+- Try to solve as much tasks as possible in this [Educational DP contest on AtCoder](https://atcoder.jp/contests/dp)
+
 This list will be updated frequently.
 
 
