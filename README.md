@@ -33,8 +33,38 @@
   - [ ] [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem)
 - Try to solve as much tasks as possible in this [Educational DP contest on AtCoder](https://atcoder.jp/contests/dp)
 
+***
+
+## Week 2
+### String Algorithms
+1. #### Reading material
+- [ ] [Basics of String manipulation](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/tutorial/)
+- [ ] [KMP algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/tutorial/)
+- [ ] [Z algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/tutorial/)
+- [ ] [Manachar's algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/manachars-algorithm/tutorial/)
+
+2. #### Problems on HackerEarth
+| ☆   | Problem Link                                                                                                                                                                              | Finished                  |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| ★★☆ | [Find the substrings](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/find-the-substrings/)                    | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [The Cheapest Palindrome](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/make-the-cheapest-palindrome-1/)     | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Largest Lexicographical Rotation II](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/largest-lexicographical-rotation-ii/) | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Monk and Monster](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/monk-and-monster-1acbb78c/)                              | <ul> <li> [ ] </li> </ul> |
+| ★★★ | [Prefix Number](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/practice-problems/algorithm/prefix-number-f5c76976/)                                         | <ul> <li> [ ] </li> </ul> |
+| ★★★ | [Last Forever](https://www.hackerearth.com/practice/algorithms/string-algorithm/manachars-algorithm/practice-problems/algorithm/last-forever/)                                            | <ul> <li> [ ] </li> </ul> |
+
+3. #### Problems on HackerRank
+| ☆   | Problem Link                                                                                             | Finished                  |
+|-----|----------------------------------------------------------------------------------------------------------|---------------------------|
+| ★☆☆ | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | <ul> <li> [ ] </li> </ul> |
+| ★☆☆ | [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)                    | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)             | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Common Child](https://www.hackerrank.com/challenges/common-child/problem)                               | <ul> <li> [ ] </li> </ul> |
+| ★★★ | [Build a Palindrome](https://www.hackerrank.com/challenges/challenging-palindromes/problem)              | <ul> <li> [ ] </li> </ul> |
+
 This list will be updated frequently.
 
+***
 
 ### Why use this list?
 
