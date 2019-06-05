@@ -42,6 +42,7 @@
 - [ ] [KMP algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/tutorial/)
 - [ ] [Z algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/tutorial/)
 - [ ] [Manachar's algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/manachars-algorithm/tutorial/)
+- [ ] [Rabin-Karp and KMP TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-string-searching-algorithms/)
 
 2. #### Problems on HackerEarth
 | ☆   | Problem Link                                                                                                                                                                              | Finished                  |
@@ -61,6 +62,14 @@
 | ★★☆ | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)             | <ul> <li> [ ] </li> </ul> |
 | ★★☆ | [Common Child](https://www.hackerrank.com/challenges/common-child/problem)                               | <ul> <li> [ ] </li> </ul> |
 | ★★★ | [Build a Palindrome](https://www.hackerrank.com/challenges/challenging-palindromes/problem)              | <ul> <li> [ ] </li> </ul> |
+
+4. ### Problems on Codeforces
+
+| ☆   | Problem Link                                                                                             | Finished                  |
+|-----|----------------------------------------------------------------------------------------------------------|---------------------------|
+| ★☆☆ | [Petya and Exam](https://codeforces.com/problemset/problem/832/B) | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Password](https://codeforces.com/problemset/problem/126/B)              | <ul> <li> [ ] </li> </ul> |
+| ★★★ | [Prefixes and Suffixes](https://codeforces.com/problemset/problem/432/D)              | <ul> <li> [ ] </li> </ul> |
 
 This list will be updated frequently.
 
