@@ -71,6 +71,11 @@
 | ★★☆ | [Password](https://codeforces.com/problemset/problem/126/B)              | <ul> <li> [ ] </li> </ul> |
 | ★★★ | [Prefixes and Suffixes](https://codeforces.com/problemset/problem/432/D)              | <ul> <li> [ ] </li> </ul> |
 
+
+5. ### Problems on Codechef
+- [ ] [Kira Loves Palindromes](https://www.codechef.com/APRIL19A/problems/KLPM/)
+
+
 This list will be updated frequently.
 
 ***
