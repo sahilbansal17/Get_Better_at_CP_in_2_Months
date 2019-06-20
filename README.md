@@ -84,6 +84,33 @@ This list will be updated frequently.
 
 ***
 
+## Week 4
+### Square Root Decomposition
+- Tutorial 1 : https://cp-algorithms.com/data_structures/sqrt_decomposition.html (Base Concept + Mo's algorithm)
+- Tutorial 2 : https://codeforces.com/blog/entry/20489
+- Tutorial 3 : [Read the comments](https://codeforces.com/blog/entry/16883)
+- Tutorial 4 : (Video Lecture, find slides in video description) : https://www.youtube.com/watch?v=VGq6w9TlJBY
+- Tutorial 5 : [](http://acm.math.spbu.ru/~sk1/mm/lections/mipt2016-sqrt/mipt-2016-burunduk1-sqrt.en.pdf)
+- Tutorial 6 : [Mo's Algorithm](https://blog.anudeep2011.com/mos-algorithm/)
+
+
+### Problems
+
+Each tutorial has links to few problems. Union of all those:
+
+- https://www.codechef.com/problems/CHEFEXQ
+- https://www.spoj.com/problems/RACETIME
+- http://www.spoj.com/problems/GIVEAWAY/
+- http://codeforces.com/contest/13/problem/E
+- https://codeforces.com/contest/342/problem/E
+- http://www.spoj.com/problems/DQUERY/
+- http://codeforces.com/problemset/problem/375/D
+- http://codeforces.com/contest/840/problem/D
+- https://codeforces.com/contest/86/problem/D
+- https://codeforces.com/contest/398/problem/D
+- https://www.codechef.com/problems/GERALD07
+
+
 ### Why use this list?
 
 <details>
