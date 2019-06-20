@@ -90,7 +90,7 @@ This list will be updated frequently.
 - Tutorial 2 : https://codeforces.com/blog/entry/20489
 - Tutorial 3 : [Read the comments](https://codeforces.com/blog/entry/16883)
 - Tutorial 4 : (Video Lecture, find slides in video description) : https://www.youtube.com/watch?v=VGq6w9TlJBY
-- Tutorial 5 : [](http://acm.math.spbu.ru/~sk1/mm/lections/mipt2016-sqrt/mipt-2016-burunduk1-sqrt.en.pdf)
+- Tutorial 5 : [Exhaustive PDF](http://acm.math.spbu.ru/~sk1/mm/lections/mipt2016-sqrt/mipt-2016-burunduk1-sqrt.en.pdf)
 - Tutorial 6 : [Mo's Algorithm](https://blog.anudeep2011.com/mos-algorithm/)
 
 
