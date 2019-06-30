@@ -5,7 +5,12 @@
 # Month 1
 
 ## Week 1
-### Dynamic Programming
+<details>
+
+  <summary> 
+  Dynamic Programming 
+  </summary>
+
 - [ ] Read [Dynamic Programming Notes Hackerearth](https://www.hackerearth.com/practice/notes/dynamic-programming-i-1/)
 - [ ] Read [DP Tutorial involving grids](https://www.hackerearth.com/practice/notes/dynamic-programming-problems-involving-grids/)
 - [ ] Read [TopCoder Tutorial on DP](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
@@ -33,10 +38,17 @@
   - [ ] [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem)
 - Try to solve as much tasks as possible in this [Educational DP contest on AtCoder](https://atcoder.jp/contests/dp)
 
+</details>
+
 ***
 
 ## Week 2
-### String Algorithms
+<details>
+
+<summary> 
+String Algorithms 
+</summary>
+
 1. #### Reading material
 - [ ] [Basics of String manipulation](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/tutorial/)
 - [ ] [KMP algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/tutorial/)
@@ -74,18 +86,33 @@
 5. ### Problems on Codechef
 - [ ] [Kira Loves Palindromes](https://www.codechef.com/APRIL19A/problems/KLPM/)
 
+</details>
+
 ***
 
 ## Week 3
+<details>
+
+<summary> 
+Week 3 
+</summary>
+
 - Solve the remaining problems from Week 1 and Week 2.
 - Take part in [CodeChef June Challenge](https://www.codechef.com/JUNE19).
 
 This list will be updated frequently.
 
+</details>
+
 ***
 
 ## Week 4
-### Square Root Decomposition
+<details>
+
+<summary> 
+Square Root Decomposition 
+</summary>
+
 1. #### Reading Material
 - [ ] [Tutorial 1: Base Concept + Mo's algorithm](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)
 - [ ] [Tutorial 2](https://codeforces.com/blog/entry/20489)
@@ -110,8 +137,42 @@ This list will be updated frequently.
 - [ ] [GERALD07](https://www.codechef.com/problems/GERALD07)
 - [ ] [MKTHNUM](https://www.spoj.com/problems/MKTHNUM/)
 
+</details>
+
+*** 
+
 ## Week 5
 
+### Trees
+
+| ☆   | Problem Link                                                                                             | Finished                  |
+|-----|----------------------------------------------------------------------------------------------------------|---------------------------|
+| ★☆☆ | [Diameter of a Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | <ul> <li> [ ] </li> </ul> |
+| ★☆☆ | [Path Sum](https://leetcode.com/problems/path-sum/)                    | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [K-th smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)             | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Find duplicate subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)                               | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Lowest Common Ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)              | <ul> <li> [ ] </li> </ul> |
+| ★★★ | [Sum of distances in tree](https://leetcode.com/problems/sum-of-distances-in-tree/)              | <ul> <li> [ ] </li> </ul> |
+
+### Graphs
+
+#### BFS and DFS
+
+- [ ] [Ones and Zeroes](https://www.spoj.com/problems/ONEZERO/)
+- [ ] [Prime Path](https://www.spoj.com/problems/PPATH/)
+
+#### Strongly Connected Components
+
+- [ ] [The Bottom of a Graph](https://www.spoj.com/problems/BOTTOM/)
+- [ ] [Fake Tournament](https://www.spoj.com/problems/TOUR/)
+
+#### Biconnected Components
+
+#### Shortest Path 
+
+#### Minimum Spanning Tree
+
+***
 
 ### Why use this list?
 
