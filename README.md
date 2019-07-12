@@ -143,7 +143,13 @@ Square Root Decomposition
 
 ## Week 5
 
-### Trees
+<details>
+
+<summary>
+Trees & Graphs
+</summary>
+
+### Trees 
 
 | ☆   | Problem Link                                                                                             | Finished                  |
 |-----|----------------------------------------------------------------------------------------------------------|---------------------------|
@@ -166,11 +172,37 @@ Square Root Decomposition
 - [ ] [The Bottom of a Graph](https://www.spoj.com/problems/BOTTOM/)
 - [ ] [Fake Tournament](https://www.spoj.com/problems/TOUR/)
 
-#### Biconnected Components
+</details>
 
-#### Shortest Path 
+***
 
-#### Minimum Spanning Tree
+## Week 6: Graphs: Biconnected Components, Shortest Path and MST
+
+### Reading Material
+
+- [ ] [:movie_camera:](https://www.youtube.com/watch?v=aZXi1unBdJA)[Finding Bridges in Graphs](https://cp-algorithms.com/graph/bridge-searching.html)
+- [ ] [:movie_camera:](https://www.youtube.com/watch?v=aZXi1unBdJA)[Articulation Points](https://github.com/williamfiset/Algorithms/blob/master/slides/graphtheory/bridges_and_articulation_points.pdf)
+- [ ] [:movie_camera:](https://www.youtube.com/watch?v=pSqmAO-m7Lk)[Dijkstra's Shortest path](https://cp-algorithms.com/graph/dijkstra_sparse.html)
+- [ ] [Bellman Ford algorithm](https://cp-algorithms.com/graph/bellman_ford.html)
+- [ ] [:movie_camera:](https://www.youtube.com/watch?v=4NQ3HnhyNfQ)[Floyd Warshall's algorithm](https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html)
+- [ ] [:movie_camera:](https://www.youtube.com/watch?v=JZBQLXgSGfs)[Kruska's Minimum Spanning Tree](https://cp-algorithms.com/graph/mst_kruskal.html)
+- [ ] [:movie_camera:](https://www.youtube.com/watch?v=jsmMtJpPnhU)[Prim's MST Algorithm](https://cp-algorithms.com/graph/mst_prim.html)
+
+#### Problems: Biconnected Components
+- [ ] [UVa 00315: Network](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=670&page=show_problem&problem=251) (finding articulation points)
+- [ ] [UVa 00796: Critical Links](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=670&page=show_problem&problem=737) (finding bridges)
+- [ ] [CF 193A: Cutting Figure](http://codeforces.com/problemset/problem/193/A)
+
+#### Problems: Shortest Path 
+- [ ] [HE: Minimum Valid Path](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/minimum-valid-path-3dc5bd03/)
+- [ ] [CC: DIGJUMP](https://www.codechef.com/problems/DIGJUMP)
+- [ ] [CC: AMR14B](https://www.codechef.com/AMR14ROS/problems/AMR14B)
+- [ ] [SPOJ: Mice and Maze](https://www.spoj.com/problems/MICEMAZE/)
+
+#### Problems: Minimum Spanning Tree
+- [ ] [SPOJ: BLINNET](https://www.spoj.com/problems/BLINNET/)
+- [ ] [HR: Roads in HackerLand](https://www.hackerrank.com/contests/june-world-codesprint/challenges/johnland/problem)
+- [ ] [CC: MST Queries](https://www.codechef.com/problems/MSTQS)
 
 ***
 
