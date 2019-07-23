@@ -206,6 +206,12 @@ Trees & Graphs
 
 ***
 
+## Week 7: Practice Contest
+
+- [ ] Solve as many problems as possible out of a total of 24, in the [ZCO Practice Contest](https://www.codechef.com/ZCOPRAC).
+
+***
+
 ### Why use this list?
 
 <details>
