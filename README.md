@@ -25,7 +25,7 @@
   - [ ] [Coin Change II](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=653&page=show_problem&problem=2512)
 - Solve the following MISC problems:
   - [x] [Cutting](https://codeforces.com/problemset/problem/998/B)
-  - [ ] [The Great Julya Calendar](https://codeforces.com/problemset/problem/331/C1)
+  - [x] [The Great Julya Calendar](https://codeforces.com/problemset/problem/331/C1)
   - [ ] [Shashlik Cooking](https://codeforces.com/problemset/problem/1040/B)
   - [ ] [Divisibility by Eight](https://codeforces.com/problemset/problem/550/C)
   - [ ] [Bishwock](https://codeforces.com/problemset/problem/991/D)
