@@ -59,7 +59,7 @@ String Algorithms
 2. #### Problems on HackerEarth
 | ☆   | Problem Link                                                                                                                                                                              | Finished                  |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| ★★☆ | [Find the substrings](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/find-the-substrings/)                    | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Find the substrings](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/find-the-substrings/)                    | <ul> <li> [x] </li> </ul> |
 | ★★☆ | [The Cheapest Palindrome](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/make-the-cheapest-palindrome-1/)     | <ul> <li> [ ] </li> </ul> |
 | ★★☆ | [Largest Lexicographical Rotation II](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/largest-lexicographical-rotation-ii/) | <ul> <li> [ ] </li> </ul> |
 | ★★☆ | [Monk and Monster](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/monk-and-monster-1acbb78c/)                              | <ul> <li> [ ] </li> </ul> |
