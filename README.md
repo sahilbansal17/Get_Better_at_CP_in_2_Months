@@ -29,7 +29,7 @@
   - [x] [Shashlik Cooking](https://codeforces.com/problemset/problem/1040/B)
   - [x] [Divisibility by Eight](https://codeforces.com/problemset/problem/550/C)
   - [x] [Bishwock](https://codeforces.com/problemset/problem/991/D)
-  - [ ] [Functions again](https://codeforces.com/problemset/problem/788/A)
+  - [x] [Functions again](https://codeforces.com/problemset/problem/788/A)
   - [ ] [An impassioned circulation of affection](https://codeforces.com/problemset/problem/814/C)
   - [ ] [Color Stripe](https://codeforces.com/problemset/problem/219/C)
   - [ ] [Bar Codes](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=655&page=show_problem&problem=1662)
