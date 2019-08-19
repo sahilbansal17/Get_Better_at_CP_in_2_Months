@@ -31,7 +31,7 @@
   - [x] [Bishwock](https://codeforces.com/problemset/problem/991/D)
   - [x] [Functions again](https://codeforces.com/problemset/problem/788/A)
   - [ ] [An impassioned circulation of affection](https://codeforces.com/problemset/problem/814/C)
-  - [ ] [Color Stripe](https://codeforces.com/problemset/problem/219/C)
+  - [x] [Color Stripe](https://codeforces.com/problemset/problem/219/C)
   - [ ] [Bar Codes](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=655&page=show_problem&problem=1662)
   - [x] [How do you add?](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=655&page=show_problem&problem=1884)
   - [ ] [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem)
