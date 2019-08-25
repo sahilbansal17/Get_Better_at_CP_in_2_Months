@@ -69,7 +69,7 @@ String Algorithms
 3. #### Problems on HackerRank
 | ☆   | Problem Link                                                                                             | Finished                  |
 |-----|----------------------------------------------------------------------------------------------------------|---------------------------|
-| ★☆☆ | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | <ul> <li> [ ] </li> </ul> |
+| ★☆☆ | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | <ul> <li> [x] </li> </ul> |
 | ★☆☆ | [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich/problem)                    | <ul> <li> [ ] </li> </ul> |
 | ★★☆ | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)             | <ul> <li> [ ] </li> </ul> |
 | ★★☆ | [Common Child](https://www.hackerrank.com/challenges/common-child/problem)                               | <ul> <li> [ ] </li> </ul> |
