@@ -79,7 +79,7 @@ String Algorithms
 
 | ☆   | Problem Link                                                                                             | Finished                  |
 |-----|----------------------------------------------------------------------------------------------------------|---------------------------|
-| ★☆☆ | [Petya and Exam](https://codeforces.com/problemset/problem/832/B) | <ul> <li> [ ] </li> </ul> |
+| ★☆☆ | [Petya and Exam](https://codeforces.com/problemset/problem/832/B) | <ul> <li> [x] </li> </ul> |
 | ★★☆ | [Password](https://codeforces.com/problemset/problem/126/B)              | <ul> <li> [ ] </li> </ul> |
 | ★★★ | [Prefixes and Suffixes](https://codeforces.com/problemset/problem/432/D)              | <ul> <li> [ ] </li> </ul> |
 
