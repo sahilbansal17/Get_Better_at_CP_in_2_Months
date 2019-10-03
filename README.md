@@ -85,7 +85,8 @@ String Algorithms
 
 5. ### Problems on Codechef
 - [ ] [Kira Loves Palindromes](https://www.codechef.com/APRIL19A/problems/KLPM/)
-
+5. ### Problems on SPOJ
+- [ ] [Word Puzzles](https://www.spoj.com/problems/WPUZZLES/)
 </details>
 
 ***
@@ -203,6 +204,7 @@ Trees & Graphs
 - [ ] [SPOJ: BLINNET](https://www.spoj.com/problems/BLINNET/)
 - [ ] [HR: Roads in HackerLand](https://www.hackerrank.com/contests/june-world-codesprint/challenges/johnland/problem)
 - [ ] [CC: MST Queries](https://www.codechef.com/problems/MSTQS)
+- [ ] [SPOJ: KOICOST](https://www.spoj.com/problems/KOICOST/)
 
 ***
 
