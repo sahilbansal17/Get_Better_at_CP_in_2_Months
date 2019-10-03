@@ -85,7 +85,7 @@ String Algorithms
 
 5. ### Problems on Codechef
 - [ ] [Kira Loves Palindromes](https://www.codechef.com/APRIL19A/problems/KLPM/)
-5. ### Problems on SPOJ
+6. ### Problems on SPOJ
 - [ ] [Word Puzzles](https://www.spoj.com/problems/WPUZZLES/)
 </details>
 
