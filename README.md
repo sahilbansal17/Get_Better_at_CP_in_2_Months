@@ -5,11 +5,7 @@
 # Month 1
 
 ## Week 1
-<details>
-
-  <summary> 
-  Dynamic Programming 
-  </summary>
+Dynamic Programming 
 
 - [ ] Read [Dynamic Programming Notes Hackerearth](https://www.hackerearth.com/practice/notes/dynamic-programming-i-1/)
 - [ ] Read [DP Tutorial involving grids](https://www.hackerearth.com/practice/notes/dynamic-programming-problems-involving-grids/)
@@ -38,16 +34,10 @@
   - [ ] [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem)
 - Try to solve as much tasks as possible in this [Educational DP contest on AtCoder](https://atcoder.jp/contests/dp)
 
-</details>
-
 ***
 
 ## Week 2
-<details>
-
-<summary> 
 String Algorithms 
-</summary>
 
 1. #### Reading material
 - [ ] [Basics of String manipulation](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/tutorial/)
@@ -87,32 +77,20 @@ String Algorithms
 - [ ] [Kira Loves Palindromes](https://www.codechef.com/APRIL19A/problems/KLPM/)
 5. ### Problems on SPOJ
 - [ ] [Word Puzzles](https://www.spoj.com/problems/WPUZZLES/)
-</details>
 
 ***
 
 ## Week 3
-<details>
-
-<summary> 
-Week 3 
-</summary>
 
 - Solve the remaining problems from Week 1 and Week 2.
 - Take part in [CodeChef June Challenge](https://www.codechef.com/JUNE19).
 
 This list will be updated frequently.
 
-</details>
-
 ***
 
 ## Week 4
-<details>
-
-<summary> 
 Square Root Decomposition 
-</summary>
 
 1. #### Reading Material
 - [ ] [Tutorial 1: Base Concept + Mo's algorithm](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)
@@ -138,17 +116,10 @@ Square Root Decomposition
 - [ ] [GERALD07](https://www.codechef.com/problems/GERALD07)
 - [ ] [MKTHNUM](https://www.spoj.com/problems/MKTHNUM/)
 
-</details>
-
 *** 
 
 ## Week 5
-
-<details>
-
-<summary>
 Trees & Graphs
-</summary>
 
 ### Trees 
 
@@ -172,8 +143,6 @@ Trees & Graphs
 
 - [ ] [The Bottom of a Graph](https://www.spoj.com/problems/BOTTOM/)
 - [ ] [Fake Tournament](https://www.spoj.com/problems/TOUR/)
-
-</details>
 
 ***
 
@@ -215,18 +184,10 @@ Trees & Graphs
 ***
 
 ### Why use this list?
-
-<details>
-  <summary>Why use this list?</summary>
   
 Since getting better at competitive programming takes a lot of effort, you need to keep practicing a lot of problems. This list will keep you focussed and you will have a target with you that you need to finish atleast these many problems before moving on. It can help you organize your practice.
 
-</details>
-
 ### How to use this list?
-
-<details>
-  <summary>How to use this list?</summary>
 
 The Github markdown's task list feature is used to check progress.
 
@@ -261,4 +222,3 @@ The Github markdown's task list feature is used to check progress.
       git push your_user_name master
 
 Refer to [this](https://github.com/susam/gitpr/blob/master/README.md) for understanding more about Fork and PR workflow.
-</details>
