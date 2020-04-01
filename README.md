@@ -11,14 +11,9 @@ Dynamic Programming
 - [ ] Read [DP Tutorial involving grids](https://www.hackerearth.com/practice/notes/dynamic-programming-problems-involving-grids/)
 - [ ] Read [TopCoder Tutorial on DP](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 - Solve the following classical problems:
-  - [ ] [Max 3D Range Sum](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=649&page=show_problem&problem=1696)
-  - [ ] [Max 2D Range Sum](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=650&page=show_problem&problem=3102)
-  - [ ] [Longest Increasing Subsequence I](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=651&page=show_problem&problem=2890)
-  - [ ] [Longest Increasing Subsequence II](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=651&page=show_problem&problem=2451)
-  - [ ] [0-1 Knapsack I](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=652&page=show_problem&problem=1557)
-  - [ ] [0-1 Knapsack II](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=652&page=show_problem&problem=2613)
-  - [ ] [Coin Change I](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=653&page=show_problem&problem=1247)
-  - [ ] [Coin Change II](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=653&page=show_problem&problem=2512)
+  - [ ] [Coin change problem](https://www.hackerrank.com/challenges/coin-change/problem)
+  - [ ] [Unbounded Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)
+  - [ ] [Longest common subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)
 - Solve the following MISC problems:
   - [ ] [Cutting](https://codeforces.com/problemset/problem/998/B)
   - [ ] [The Great Julya Calendar](https://codeforces.com/problemset/problem/331/C1)
@@ -28,8 +23,6 @@ Dynamic Programming
   - [ ] [Functions again](https://codeforces.com/problemset/problem/788/A)
   - [ ] [An impassioned circulation of affection](https://codeforces.com/problemset/problem/814/C)
   - [ ] [Color Stripe](https://codeforces.com/problemset/problem/219/C)
-  - [ ] [Bar Codes](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=655&page=show_problem&problem=1662)
-  - [ ] [How do you add?](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=655&page=show_problem&problem=1884)
   - [ ] [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem)
   - [ ] [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem)
 - Try to solve as much tasks as possible in this [Educational DP contest on AtCoder](https://atcoder.jp/contests/dp)
@@ -37,13 +30,72 @@ Dynamic Programming
 ***
 
 ## Week 2
+Trees & Graphs
+
+### Trees 
+
+| ☆   | Problem Link                                                                                             | Finished                  |
+|-----|----------------------------------------------------------------------------------------------------------|---------------------------|
+| ★☆☆ | [Diameter of a Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | <ul> <li> [ ] </li> </ul> |
+| ★☆☆ | [Path Sum](https://leetcode.com/problems/path-sum/)                    | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [K-th smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)             | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Find duplicate subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)                               | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Lowest Common Ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)              | <ul> <li> [ ] </li> </ul> |
+| ★★★ | [Sum of distances in tree](https://leetcode.com/problems/sum-of-distances-in-tree/)              | <ul> <li> [ ] </li> </ul> |
+
+### Graphs
+
+#### BFS and DFS
+
+- [ ] [Ones and Zeroes](https://www.spoj.com/problems/ONEZERO/)
+- [ ] [Prime Path](https://www.spoj.com/problems/PPATH/)
+
+#### Strongly Connected Components
+
+- [ ] [The Bottom of a Graph](https://www.spoj.com/problems/BOTTOM/)
+- [ ] [Fake Tournament](https://www.spoj.com/problems/TOUR/)
+
+### Biconnected Components, Shortest Path and MST
+
+#### Reading Material
+
+- [ ] [:movie_camera:](https://www.youtube.com/watch?v=aZXi1unBdJA)[Finding Bridges in Graphs](https://cp-algorithms.com/graph/bridge-searching.html)
+- [ ] [:movie_camera:](https://www.youtube.com/watch?v=aZXi1unBdJA)[Articulation Points](https://github.com/williamfiset/Algorithms/blob/master/slides/graphtheory/bridges_and_articulation_points.pdf)
+- [ ] [:movie_camera:](https://www.youtube.com/watch?v=pSqmAO-m7Lk)[Dijkstra's Shortest path](https://cp-algorithms.com/graph/dijkstra_sparse.html)
+- [ ] [Bellman Ford algorithm](https://cp-algorithms.com/graph/bellman_ford.html)
+- [ ] [:movie_camera:](https://www.youtube.com/watch?v=4NQ3HnhyNfQ)[Floyd Warshall's algorithm](https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html)
+- [ ] [:movie_camera:](https://www.youtube.com/watch?v=JZBQLXgSGfs)[Kruska's Minimum Spanning Tree](https://cp-algorithms.com/graph/mst_kruskal.html)
+- [ ] [:movie_camera:](https://www.youtube.com/watch?v=jsmMtJpPnhU)[Prim's MST Algorithm](https://cp-algorithms.com/graph/mst_prim.html)
+
+#### Problems: Biconnected Components
+- [ ] [UVa 00315: Network](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=670&page=show_problem&problem=251) (finding articulation points)
+- [ ] [UVa 00796: Critical Links](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=670&page=show_problem&problem=737) (finding bridges)
+- [ ] [CF 193A: Cutting Figure](http://codeforces.com/problemset/problem/193/A)
+
+#### Problems: Shortest Path 
+- [ ] [HE: Minimum Valid Path](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/minimum-valid-path-3dc5bd03/)
+- [ ] [CC: DIGJUMP](https://www.codechef.com/problems/DIGJUMP)
+- [ ] [CC: AMR14B](https://www.codechef.com/AMR14ROS/problems/AMR14B)
+- [ ] [SPOJ: Mice and Maze](https://www.spoj.com/problems/MICEMAZE/)
+
+#### Problems: Minimum Spanning Tree
+- [ ] [SPOJ: BLINNET](https://www.spoj.com/problems/BLINNET/)
+- [ ] [HR: Roads in HackerLand](https://www.hackerrank.com/contests/june-world-codesprint/challenges/johnland/problem)
+- [ ] [CC: MST Queries](https://www.codechef.com/problems/MSTQS)
+- [ ] [SPOJ: KOICOST](https://www.spoj.com/problems/KOICOST/)
+
+***
+
+## Week 3
 String Algorithms 
 
 1. #### Reading material
 - [ ] [Basics of String manipulation](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/tutorial/)
 - [ ] [KMP algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/tutorial/)
 - [ ] [Z algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/tutorial/)
+- [ ] [Z algorithm II](https://cp-algorithms.com/string/z-function.html)
 - [ ] [Manachar's algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/manachars-algorithm/tutorial/)
+- [ ] [Manacher's algorithm II](https://cp-algorithms.com/string/manacher.html)
 - [ ] [Rabin-Karp and KMP TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-string-searching-algorithms/)
 
 2. #### Problems on HackerEarth
@@ -80,17 +132,40 @@ String Algorithms
 
 ***
 
-## Week 3
+## Week 4: Practice Contest
 
-- Solve the remaining problems from Week 1 and Week 2.
-- Take part in [CodeChef June Challenge](https://www.codechef.com/JUNE19).
-
-This list will be updated frequently.
+- [ ] Solve as many problems as possible out of a total of 24, in the [ZCO Practice Contest](https://www.codechef.com/ZCOPRAC).
 
 ***
 
-## Week 4
-Square Root Decomposition 
+## Week 5
+Data Structures
+
+### Sparse Table
+
+1. #### Reading Material
+- [ ] [:movie_camera:](https://www.youtube.com/watch?v=uUatD9AudXo)[Tutorial](https://cp-algorithms.com/data_structures/sparse-table.html)
+- [ ] [Blog post](http://adilet.org/blog/sparse-table/)
+
+2. #### Problems
+- [ ] [B. Maximum of Maximums of Minimums](https://codeforces.com/problemset/problem/872/B)
+- [ ] [CGCDSSQ](https://codeforces.com/contest/475/problem/D)
+- [ ] [D. R2D2 and Droid Army](https://codeforces.com/problemset/problem/514/D)
+
+### Disjoint Set Union
+
+1. #### Reading Material
+- [ ] [:movie_camera:](https://www.youtube.com/watch?v=0jNmHPfA_yE)[Tutorial](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
+
+2. #### Problems
+- [ ] [D. Roads not only in Berland](https://codeforces.com/contest/25/problem/D)
+- [ ] [HackerEarth CodeMonk: DSU](https://www.hackerearth.com/challenges/competitive/code-monk-disjoint-set-union-union-find/)
+
+***
+
+## Week 6
+
+Square Root Decomposition
 
 1. #### Reading Material
 - [ ] [Tutorial 1: Base Concept + Mo's algorithm](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)
@@ -118,68 +193,34 @@ Square Root Decomposition
 
 *** 
 
-## Week 5
-Trees & Graphs
+## Week 7
+Segment Tree 
 
-### Trees 
+1. #### Reading Material
+- [ ] [Tutorial](https://cp-algorithms.com/data_structures/segment_tree.html)
+- [ ] 
 
-| ☆   | Problem Link                                                                                             | Finished                  |
-|-----|----------------------------------------------------------------------------------------------------------|---------------------------|
-| ★☆☆ | [Diameter of a Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | <ul> <li> [ ] </li> </ul> |
-| ★☆☆ | [Path Sum](https://leetcode.com/problems/path-sum/)                    | <ul> <li> [ ] </li> </ul> |
-| ★★☆ | [K-th smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)             | <ul> <li> [ ] </li> </ul> |
-| ★★☆ | [Find duplicate subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)                               | <ul> <li> [ ] </li> </ul> |
-| ★★☆ | [Lowest Common Ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)              | <ul> <li> [ ] </li> </ul> |
-| ★★★ | [Sum of distances in tree](https://leetcode.com/problems/sum-of-distances-in-tree/)              | <ul> <li> [ ] </li> </ul> |
-
-### Graphs
-
-#### BFS and DFS
-
-- [ ] [Ones and Zeroes](https://www.spoj.com/problems/ONEZERO/)
-- [ ] [Prime Path](https://www.spoj.com/problems/PPATH/)
-
-#### Strongly Connected Components
-
-- [ ] [The Bottom of a Graph](https://www.spoj.com/problems/BOTTOM/)
-- [ ] [Fake Tournament](https://www.spoj.com/problems/TOUR/)
+2. #### Problems
+- [ ] [D. Distinct Characters Queries](https://codeforces.com/problemset/problem/1234/D)
+- [ ] [A. Knight Tournament](https://codeforces.com/contest/356/problem/A)
+- [ ] [F. Ant colony](https://codeforces.com/contest/474/problem/F)
+- [ ] [E. Drazil and Park](https://codeforces.com/contest/515/problem/E)
+- [ ] [C. DZY Loves Fibonacci Numbers](https://codeforces.com/contest/446/problem/C)
 
 ***
 
-## Week 6: Graphs: Biconnected Components, Shortest Path and MST
+## Week 8
+Fenwick Tree 
 
-### Reading Material
+1. #### Reading Material
+- [ ] [Tutorial](https://cp-algorithms.com/data_structures/fenwick.html)
 
-- [ ] [:movie_camera:](https://www.youtube.com/watch?v=aZXi1unBdJA)[Finding Bridges in Graphs](https://cp-algorithms.com/graph/bridge-searching.html)
-- [ ] [:movie_camera:](https://www.youtube.com/watch?v=aZXi1unBdJA)[Articulation Points](https://github.com/williamfiset/Algorithms/blob/master/slides/graphtheory/bridges_and_articulation_points.pdf)
-- [ ] [:movie_camera:](https://www.youtube.com/watch?v=pSqmAO-m7Lk)[Dijkstra's Shortest path](https://cp-algorithms.com/graph/dijkstra_sparse.html)
-- [ ] [Bellman Ford algorithm](https://cp-algorithms.com/graph/bellman_ford.html)
-- [ ] [:movie_camera:](https://www.youtube.com/watch?v=4NQ3HnhyNfQ)[Floyd Warshall's algorithm](https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html)
-- [ ] [:movie_camera:](https://www.youtube.com/watch?v=JZBQLXgSGfs)[Kruska's Minimum Spanning Tree](https://cp-algorithms.com/graph/mst_kruskal.html)
-- [ ] [:movie_camera:](https://www.youtube.com/watch?v=jsmMtJpPnhU)[Prim's MST Algorithm](https://cp-algorithms.com/graph/mst_prim.html)
-
-#### Problems: Biconnected Components
-- [ ] [UVa 00315: Network](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=670&page=show_problem&problem=251) (finding articulation points)
-- [ ] [UVa 00796: Critical Links](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=670&page=show_problem&problem=737) (finding bridges)
-- [ ] [CF 193A: Cutting Figure](http://codeforces.com/problemset/problem/193/A)
-
-#### Problems: Shortest Path 
-- [ ] [HE: Minimum Valid Path](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/minimum-valid-path-3dc5bd03/)
-- [ ] [CC: DIGJUMP](https://www.codechef.com/problems/DIGJUMP)
-- [ ] [CC: AMR14B](https://www.codechef.com/AMR14ROS/problems/AMR14B)
-- [ ] [SPOJ: Mice and Maze](https://www.spoj.com/problems/MICEMAZE/)
-
-#### Problems: Minimum Spanning Tree
-- [ ] [SPOJ: BLINNET](https://www.spoj.com/problems/BLINNET/)
-- [ ] [HR: Roads in HackerLand](https://www.hackerrank.com/contests/june-world-codesprint/challenges/johnland/problem)
-- [ ] [CC: MST Queries](https://www.codechef.com/problems/MSTQS)
-- [ ] [SPOJ: KOICOST](https://www.spoj.com/problems/KOICOST/)
-
-***
-
-## Week 7: Practice Contest
-
-- [ ] Solve as many problems as possible out of a total of 24, in the [ZCO Practice Contest](https://www.codechef.com/ZCOPRAC).
+2. #### Problems
+- [ ] [E. Little Artem and Time Machine](https://codeforces.com/contest/669/problem/E)
+- [ ] [E. Hanoi Factory](https://codeforces.com/contest/777/problem/E)
+- [ ] [C. Subsequences](https://codeforces.com/contest/597/problem/C)
+- [ ] [D. Ball](https://codeforces.com/contest/12/problem/D)
+- [ ] [E. Garlands](https://codeforces.com/contest/707/problem/E)
 
 ***
 
