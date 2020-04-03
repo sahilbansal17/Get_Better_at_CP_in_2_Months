@@ -91,19 +91,19 @@ Trees & Graphs
 String Algorithms 
 
 1. #### Reading material
-- [ ] [Basics of String manipulation](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/tutorial/)
-- [ ] [KMP algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/tutorial/)
-- [ ] [Z algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/tutorial/)
-- [ ] [Z algorithm II](https://cp-algorithms.com/string/z-function.html)
-- [ ] [Manachar's algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/manachars-algorithm/tutorial/)
-- [ ] [Manacher's algorithm II](https://cp-algorithms.com/string/manacher.html)
-- [ ] [Rabin-Karp and KMP TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-string-searching-algorithms/)
+- [/] [Basics of String manipulation](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/tutorial/)
+- [/] [KMP algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/tutorial/)
+- [/] [Z algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/tutorial/)
+- [/] [Z algorithm II](https://cp-algorithms.com/string/z-function.html)
+- [/] [Manachar's algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/manachars-algorithm/tutorial/)
+- [/] [Manacher's algorithm II](https://cp-algorithms.com/string/manacher.html)
+- [/] [Rabin-Karp and KMP TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-string-searching-algorithms/)
 
 2. #### Problems on HackerEarth
 | ☆   | Problem Link                                                                                                                                                                              | Finished                  |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| ★★☆ | [Find the substrings](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/find-the-substrings/)                    | <ul> <li> [ ] </li> </ul> |
-| ★★☆ | [The Cheapest Palindrome](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/make-the-cheapest-palindrome-1/)     | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [Find the substrings](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/find-the-substrings/)                    | <ul> <li> [/] </li> </ul> |
+| ★★☆ | [The Cheapest Palindrome](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/make-the-cheapest-palindrome-1/)     | <ul> <li> [/] </li> </ul> |
 | ★★☆ | [Largest Lexicographical Rotation II](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/largest-lexicographical-rotation-ii/) | <ul> <li> [ ] </li> </ul> |
 | ★★☆ | [Monk and Monster](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/monk-and-monster-1acbb78c/)                              | <ul> <li> [ ] </li> </ul> |
 | ★★★ | [Prefix Number](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/practice-problems/algorithm/prefix-number-f5c76976/)                                         | <ul> <li> [ ] </li> </ul> |
