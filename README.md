@@ -12,7 +12,7 @@ Dynamic Programming
 - [ ] Read [TopCoder Tutorial on DP](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 - Solve the following classical problems:
   - [x] [Coin change problem](https://www.hackerrank.com/challenges/coin-change/problem)
-  - [ ] [Unbounded Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)
+  - [x] [Unbounded Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)
   - [ ] [Longest common subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)
 - Solve the following MISC problems:
   - [x] [Cutting](https://codeforces.com/problemset/problem/998/B)
