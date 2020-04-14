@@ -13,7 +13,7 @@ Dynamic Programming
 - Solve the following classical problems:
   - [x] [Coin change problem](https://www.hackerrank.com/challenges/coin-change/problem)
   - [x] [Unbounded Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)
-  - [ ] [Longest common subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)
+  - [x] [Longest common subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)
 - Solve the following MISC problems:
   - [x] [Cutting](https://codeforces.com/problemset/problem/998/B)
   - [x] [The Great Julya Calendar](https://codeforces.com/problemset/problem/331/C1)
