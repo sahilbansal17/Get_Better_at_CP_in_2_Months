@@ -19,10 +19,10 @@ Dynamic Programming
   - [x] [The Great Julya Calendar](https://codeforces.com/problemset/problem/331/C1)
   - [x] [Shashlik Cooking](https://codeforces.com/problemset/problem/1040/B)
   - [x] [Divisibility by Eight](https://codeforces.com/problemset/problem/550/C)
-  - [ ] [Bishwock](https://codeforces.com/problemset/problem/991/D)
-  - [ ] [Functions again](https://codeforces.com/problemset/problem/788/A)
-  - [ ] [An impassioned circulation of affection](https://codeforces.com/problemset/problem/814/C)
-  - [ ] [Color Stripe](https://codeforces.com/problemset/problem/219/C)
+  - [x] [Bishwock](https://codeforces.com/problemset/problem/991/D)
+  - [x] [Functions again](https://codeforces.com/problemset/problem/788/A) Need to review it ☆
+  - [x] [An impassioned circulation of affection](https://codeforces.com/problemset/problem/814/C) Need to review it ☆
+  - [x] [Color Stripe](https://codeforces.com/problemset/problem/219/C)
   - [ ] [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem)
   - [ ] [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem)
 - Try to solve as much tasks as possible in this [Educational DP contest on AtCoder](https://atcoder.jp/contests/dp)
