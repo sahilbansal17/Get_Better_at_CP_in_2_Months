@@ -23,7 +23,7 @@ Dynamic Programming
   - [x] [Functions again](https://codeforces.com/problemset/problem/788/A) Need to review it ☆
   - [x] [An impassioned circulation of affection](https://codeforces.com/problemset/problem/814/C) Need to review it ☆
   - [x] [Color Stripe](https://codeforces.com/problemset/problem/219/C)
-  - [ ] [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem)
+  - [x] [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem)
   - [ ] [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem)
 - Try to solve as much tasks as possible in this [Educational DP contest on AtCoder](https://atcoder.jp/contests/dp)
 
