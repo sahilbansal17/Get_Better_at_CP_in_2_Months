@@ -25,7 +25,14 @@ Dynamic Programming
   - [x] [Color Stripe](https://codeforces.com/problemset/problem/219/C)
   - [x] [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem)
   - [ ] [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem)
-- Try to solve as much tasks as possible in this [Educational DP contest on AtCoder](https://atcoder.jp/contests/dp)
+
+### Contests
+- [ ] [Educational DP contest on AtCoder](https://atcoder.jp/contests/dp)
+- [ ] [DSA Learning Series: Week 7 - DP By CodeChef](https://www.codechef.com/LRNDSA07)
+- [ ] [Marathon DP - 01](https://vjudge.net/contest/202878)
+- [ ] [V Planet DP - 2](https://codeforces.com/group/hK6hgc8x94/contest/222255)
+- [ ] [V Planet DP - 3](https://codeforces.com/group/hK6hgc8x94/contest/222261)
+- [ ] [V Planet DP Week 5](https://codeforces.com/group/hK6hgc8x94/contest/238061)
 
 ***
 
@@ -84,6 +91,9 @@ Trees & Graphs
 - [ ] [CC: MST Queries](https://www.codechef.com/problems/MSTQS)
 - [ ] [SPOJ: KOICOST](https://www.spoj.com/problems/KOICOST/)
 
+### Contests
+
+- [ ] [DSA Learning Series: Week 8 - Graphs By CodeChef](https://www.codechef.com/LRNDSA08)
 ***
 
 ## Week 3
@@ -134,7 +144,9 @@ String Algorithms
 
 ## Week 4: Practice Contest
 
-- [ ] Solve as many problems as possible out of a total of 24, in the [ZCO Practice Contest](https://www.codechef.com/ZCOPRAC).
+- [ ] [ZCO Practice Contest](https://www.codechef.com/ZCOPRAC)
+- [ ] [INOI Problems](https://www.codechef.com/INOIPRAC)
+- [ ] [IARCS OPC Judge Problems](https://www.codechef.com/IARCSJUD)
 
 ***
 
