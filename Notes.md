@@ -26,3 +26,6 @@ Every dynamic programming problems has a schema to be followed:
 - **Bottom Up.** I'm going to learn programming. Then I will start practicing. Then, I will start tacking part in contest. Then, I'll practice even more and try to improve. After working hard like a crazy, I'll be an amazing coder.
 - **Top Down.** I will be an amazing coder. How? I will work hard like crazy. How? I'll practice more and try to improve. How? I'll start taking part in contests. Then? I'll practicing. How? I'm going to learn programming.
 
+Memoization is very easy to code and might be your first line of approach for a while. Though, with dynamic programming, you don't risk blowing stack space, you end up with lots of liberty of when you can throw calculations away. The downside is that you have to come up with an ordering of a solution which works. 
+
+**One can think of dynamic programming as a table-filling algorithm: you know the calculations you have to do, so you pick the best order to do them in and ignore the ones you don't have to fill in.**
