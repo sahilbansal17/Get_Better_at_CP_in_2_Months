@@ -250,7 +250,7 @@ The Github markdown's task list feature is used to check progress.
 1. Fork this repository. 
 2. Clone the forked repository.
 
-      `git clone https://github.com/your_user_name/Get_Better_at_CP_in_2_Months/`
+      `git clone https://github.com/your_user_name/Get_Better_at_CP_in_2_Months.git`
     
 3. Create a new branch for tracking your progress. Let's name this *your_user_name*
 
@@ -258,7 +258,7 @@ The Github markdown's task list feature is used to check progress.
       
 4. Add remote
 
-      `git remote add your_user_name https://github.com/your_user_name/Get_Better_at_CP_in_2_Months/`
+      `git remote add your_user_name https://github.com/your_user_name/Get_Better_at_CP_in_2_Months.git`
   
 - **Marking tasks as completed and pushing to your branch**:
 
