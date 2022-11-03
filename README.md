@@ -7,6 +7,7 @@ Dynamic Programming
 
 - [ ] Read [Dynamic Programming Notes Hackerearth](https://www.hackerearth.com/practice/notes/dynamic-programming-i-1/)
 - [ ] Read [DP Tutorial involving grids](https://www.hackerearth.com/practice/notes/dynamic-programming-problems-involving-grids/)
+- [ ] Read [Dynamic Programming Tutorial](https://www.scaler.com/topics/course/dynamic-programming/)
 - [ ] Read [TopCoder Tutorial on DP](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 - Solve the following classical problems:
   - [ ] [Coin change problem](https://www.hackerrank.com/challenges/coin-change/problem)
