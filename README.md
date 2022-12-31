@@ -2,7 +2,9 @@
 
 # Month 1
 
-## Week 1
+<details>
+<summary>Week 1</summary>
+
 Dynamic Programming 
 
 - [ ] Read [Dynamic Programming Notes Hackerearth](https://www.hackerearth.com/practice/notes/dynamic-programming-i-1/)
@@ -32,9 +34,13 @@ Dynamic Programming
 - [ ] [V Planet DP - 3](https://codeforces.com/group/hK6hgc8x94/contest/222261)
 - [ ] [V Planet DP Week 5](https://codeforces.com/group/hK6hgc8x94/contest/238061)
 
+</details>
+
 ***
 
-## Week 2
+<details>
+<summary>Week 2</summary>
+
 Trees & Graphs
 
 ### Trees 
@@ -94,7 +100,13 @@ Trees & Graphs
 - [ ] [DSA Learning Series: Week 8 - Graphs By CodeChef](https://www.codechef.com/LRNDSA08)
 ***
 
-## Week 3
+</details>
+
+***
+
+<details>
+<summary>Week 3</summary>
+
 String Algorithms 
 
 1. #### Reading material
@@ -138,7 +150,12 @@ String Algorithms
 6. ### Problems on SPOJ
 - [ ] [Word Puzzles](https://www.spoj.com/problems/WPUZZLES/)
 
+</details>
+
 ***
+
+<details>
+<summary>Week 4</summary>
 
 ## Week 4: Practice Contest
 
@@ -146,11 +163,15 @@ String Algorithms
 - [ ] [INOI Problems](https://www.codechef.com/INOIPRAC)
 - [ ] [IARCS OPC Judge Problems](https://www.codechef.com/IARCSJUD)
 
+</details>
+
 ***
 
 # Month 2
 
-## Week 5
+<details>
+<summary>Week 5</summary>
+
 Data Structures
 
 ### Sparse Table
@@ -173,9 +194,12 @@ Data Structures
 - [ ] [D. Roads not only in Berland](https://codeforces.com/contest/25/problem/D)
 - [ ] [HackerEarth CodeMonk: DSU](https://www.hackerearth.com/challenges/competitive/code-monk-disjoint-set-union-union-find/)
 
+</details>
+
 ***
 
-## Week 6
+<details>
+<summary>Week 6</summary>
 
 Square Root Decomposition
 
@@ -203,9 +227,13 @@ Square Root Decomposition
 - [ ] [GERALD07](https://www.codechef.com/problems/GERALD07)
 - [ ] [MKTHNUM](https://www.spoj.com/problems/MKTHNUM/)
 
+</details>
+
 *** 
 
-## Week 7
+<details>
+<summary>Week 7</summary>
+
 Segment Tree 
 
 1. #### Reading Material
@@ -218,7 +246,12 @@ Segment Tree
 - [ ] [E. Drazil and Park](https://codeforces.com/contest/515/problem/E)
 - [ ] [C. DZY Loves Fibonacci Numbers](https://codeforces.com/contest/446/problem/C)
 
+</details>
+
 ***
+
+<details>
+<summary>Week 8</summary>
 
 ## Week 8
 Fenwick Tree 
@@ -233,13 +266,21 @@ Fenwick Tree
 - [ ] [D. Ball](https://codeforces.com/contest/12/problem/D)
 - [ ] [E. Garlands](https://codeforces.com/contest/707/problem/E)
 
+</details>
+
 ***
 
-### Why use this list?
+<details>
+<summary>Why use this list?</summary>
   
 Since getting better at competitive programming takes a lot of effort, you need to keep practicing a lot of problems. This list will keep you focussed and you will have a target with you that you need to finish atleast these many problems before moving on. It can help you organize your practice.
 
-### How to use this list?
+</details>
+
+***
+
+<details>
+<summary>How to use this list?</summary>
 
 The Github markdown's task list feature is used to check progress.
 
@@ -274,3 +315,7 @@ The Github markdown's task list feature is used to check progress.
       git push your_user_name master
 
 Refer to [this](https://github.com/susam/gitpr/blob/master/README.md) for understanding more about Fork and PR workflow.
+
+</details>
+
+***
