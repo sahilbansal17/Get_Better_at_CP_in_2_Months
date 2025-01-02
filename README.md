@@ -1,6 +1,6 @@
 # Get_Better_CP_in_2_Months
 
-Join us on clubhouse: https://www.clubhouse.com/house/leetcode-daily
+Join us on X community: https://x.com/i/communities/1873085009294410088
 
 # Month 1
 
