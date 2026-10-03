@@ -1,5 +1,9 @@
 # Get_Better_CP_in_2_Months
 
+> **Interactive version:** this plan is available as a click-to-check tracker with
+> progress tracking, filters, and search — see [TRACKER.md](TRACKER.md). The
+> markdown below stays the source of truth; the app is generated from it.
+
 Join us on X community: https://x.com/i/communities/1873085009294410088
 
 # Month 1
